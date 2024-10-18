@@ -3,8 +3,8 @@
 <h3>Current Projects</h3>
 
 🔶 CyrusWebSolutions.com<br>
+&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;🔶 4U2Learn.com<br>
 &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;🔶 mySoftwareCo.com<br>
-&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;🔸myStudyBuddy.app<br>
 &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;🔸myLifeBuddy.app<br>
 &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;🔸myCardVault.app<br>
 &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;🔸myOneAccount.com<br>
@@ -15,6 +15,10 @@
 
 <h2>Project Details</h2>
 
+<h4>🔸4U2Learn.com</h4>
+<h6>Not Live: In Development</h6>
+An app that helps users set and track study goals, offering tailored tools for subjects like programming, STEM, and memorization.
+
 <h4>🔶CyrusWebSolutions.com</h4>
 <h6>Not Live: In Development</h6>
 This is my personal brand and portfolio, where I showcase all of my web development work.
@@ -22,10 +26,6 @@ This is my personal brand and portfolio, where I showcase all of my web developm
 <h4>🔶mySoftwareCo.com</h4>
 <h6>Not Live: In Development</h6>
 The home for the "my" series of apps—web applications aimed at improving productivity and organization. The "my" series of apps under mySoftwareCo plays on the idea of personalization and ownership. Each app starts with "my" to signify that it is built for the individual user, making it feel like a personal tool. It's a fun play on words, where "my" represents both the user's possession and the name of my company—emphasizing that these apps are designed with the user in mind, for their personal use and benefit.
-
-<h4>🔸myStudyBuddy.app</h4>
-<h6>Not Live: In Development</h6>
-An app that helps users set and track study goals, offering tailored tools for subjects like programming, STEM, and memorization.
 
 <h4>🔸myLifeBuddy.app</h4>
 <h6>Not Live: In Development</h6>
